@@ -1,0 +1,21 @@
+{
+  "name": "url-shortener",
+  "version": "1.0.0",
+  "description": "URL shortener with MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "URL",
+    "shortener",
+    "MongoDB"
+  ],
+  "author": "Marcos M. Ferreira",
+  "license": "ISC",
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.10.0",
+    "@typescript-eslint/parser": "^5.10.0",
+    "typescript": "^4.5.4"
+  }
+}
